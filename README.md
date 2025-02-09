@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <b>Code Alchemist | Magento Dev 🛍 | Future Full-Stack JavaScript Dev 🚀</b>
+  <b> Magento Dev 🛍 | Future Full-Stack JavaScript Dev 🚀</b>
 </p>
 
 ---
