@@ -12,7 +12,6 @@
 -  🎓 Pursuing my **Master’s at ENSET Mohammedia**  
 - 📚 Currently leveling up with **React.js & Node.js** to go full-stack  
 - 💡 I enjoy **solving tricky bugs, optimizing websites, and making the web faster!**  
-
 ---
 
 ### 🛠 **Tech Stack & Tools**  
@@ -29,13 +28,13 @@
 
 🛍 **eCommerce & CMS:**  
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 🛠 **Tools & DevOps:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -59,9 +58,7 @@
 🚀 [Portfolio (Coming Soon!)] 
 
 ---
-
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="150px">
 </p>
-
 ---
