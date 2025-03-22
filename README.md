@@ -10,7 +10,6 @@
 ### 🦸‍♀️ **About Me**
 - 👩‍💻 Magento Developer by day, JavaScript explorer by night 🌙
 -  🎓 Pursuing my **Master’s at ENSET Mohammedia**  
-- 🌍 Passionate about **eCommerce, SEO, and web performance**  
 - 📚 Currently leveling up with **React.js & Node.js** to go full-stack  
 - 💡 I enjoy **solving tricky bugs, optimizing websites, and making the web faster!**  
 
