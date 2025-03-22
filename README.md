@@ -42,14 +42,6 @@
 - 🚀 **Building my skills in React & Node.js**  
 - 🛒 **Enhancing Magento projects with better SEO & UX**  
 - ⚡ **Optimizing website performance & fixing complex bugs**  
-
----
-
-### 🌱 **Fun Facts About Me**
-- 🔍 I break Magento so you don’t have to—then I fix it!  
-- 🎨 I believe **code should look as good as it works**  
-- 🏆 Debugging is my cardio (Magento errors keep me in shape)  
-
 ---
 
 ### 📫 **Let's Connect!**
